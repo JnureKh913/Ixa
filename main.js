@@ -1,5 +1,5 @@
 // Thay đổi nội dung búc thư ở đây
-var letterContent = "Đây là nội dung của bức thư mà người ấy sẽ đọc được. Hãy viết gì đó cho người đó thôi nào. Cảm ơn bạn đã xem"
+var letterContent = "Biết là bây giờ có hơi chậm trễ, chúc Linh luôn vui vẻ, không nợ môn, cười thật nhiều, chóng mua được thỏi son Gucci nha. Trái tim của tớ chỉ chứa mỗi mình cậu là chật chỗ rùi, không thêm được ai vào nữa cả. Thật lòng Tớ yêu cậu, Thùy Linh"
 
 // Tốc độ viết chữ. Số càng nhỏ tốc độ càng nhanh. 50 là tốc độ khá phù hợp
 durationWrite = 50 
